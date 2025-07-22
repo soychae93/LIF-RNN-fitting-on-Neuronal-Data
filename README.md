@@ -1,5 +1,4 @@
 # LIF-RNN-fitting-on-Neuronal-Data
-Project Overview
 This repository contains Python code that simulates rate-based recurrent neural dynamics and integrates a PyTorch-based model, combining neuroscience-inspired dynamical systems with control theory. The neural dynamics model is capable of simulating time-evolving population activity in response to input cues and optimizing readouts for behaviorally relevant targets (e.g., motor outputs).
 
 # 🧠 Model Description

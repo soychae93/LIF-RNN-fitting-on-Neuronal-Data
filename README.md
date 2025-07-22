@@ -13,7 +13,7 @@ To infer the optimal initial state of the system, x* and read out of the system,
 
 <img width="632" height="290" alt="image" src="https://github.com/user-attachments/assets/75d656d3-e1c6-4cbe-bcbc-92c3f7d652c2" />
 
-To ensure system stability, the eigenvalues of the recurrent weight matrix are kept below 1. This implementation is heavily inspired by control theory. For example, the controllability of the network is enhanced by aligning the neural state space with highly controllable directions, identified through eigendecomposition of the controllability Gramian.
+To ensure system stability, the eigenvalues of the recurrent weight matrix are kept below 1. This implementation is heavily inspired by control theory. For example, the controllability of the network is enhanced by aligning the neural state space with highly controllable directions, identified through eigendecomposition of the controllability Gramian [1, 2].
 
 # Ongoing Work
 ## LIF RNN fitting on simulated data

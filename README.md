@@ -4,13 +4,14 @@ This repository contains Python code that simulates rate-based recurrent neural 
 
 # 🧠 Model Description
 This repository implements a biologically inspired recurrent neural network (RNN) with the following continuous-time dynamics:
+
 <img width="545" height="250" alt="image" src="https://github.com/user-attachments/assets/ad35a129-eded-4fb8-8020-a475c93fe3a0" />
 
 **Minimizing cost-to-go**
 
 <img width="632" height="290" alt="image" src="https://github.com/user-attachments/assets/75d656d3-e1c6-4cbe-bcbc-92c3f7d652c2" />
 
-You can run the 
+
 # Ongoing Work
 ## LIF RNN fitting on simulated data
 A Python implementation of the cortico-thalamo-cortical loop for optimal movement control, based on T.C. Kao et al., Neuron (2021), will be available here soon.

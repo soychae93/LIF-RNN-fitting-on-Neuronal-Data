@@ -29,10 +29,10 @@ The model successfully learned to generate with an optimal thalamic inputs to ma
 
 After training, I re-trained the network to generate novel movements it had never performed before.
 This approach tests whether a fully trained RNN can adapt by shaping new initial conditions for unfamiliar movements, or whether a broader reorganization of the network is necessary to learn entirely new motor behaviors.
-The model successfully learned additional directional movements and was also able to generate sequential movements within a short time frame by reorganizing the entire network.
+The model successfully learned additional directional movements and was also able to generate sequential movements within a short time frame.
 <img width="988" height="704" alt="simulation_results_sequential" src="https://github.com/user-attachments/assets/41c011e4-cbf7-4561-9f86-1e01cc9016b9" />
 
-This code will be updated soon. Stay tuned!
+This code and the results will be updated soon. Stay tuned!
 
 # References
 [1] Hennequin, G., Vogels, T. P., & Gerstner, W. (2014). Optimal control of transient dynamics in balanced networks supports generation of complex movements. Neuron, 82(6), 1394-1406.
